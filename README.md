@@ -1,4 +1,7 @@
 # g-hotkey
+
+Note: Current license for this is: GNU General Public License v3.0.  The replaces the license information in the readme and in the installer for G-Hotkey.  I'm making this available for anyone who may be interested in or can use the source code.
+
 G-Hotkey is a macro, key remapper, and automation utility designed to work specifically with commercial computer games.  G-Hotkey now works with games that use DirectInput.
 
 G-Hotkey includes the following features:
